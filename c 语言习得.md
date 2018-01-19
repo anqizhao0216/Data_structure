@@ -21,3 +21,9 @@ c 语言习得
 header file
 
 记录一个Program的结构。包含所有的函数签名。
+
+
+
+struct
+
+typeof 定义的保留字的另一个名字
